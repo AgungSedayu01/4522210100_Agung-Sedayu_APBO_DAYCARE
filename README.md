@@ -15,3 +15,5 @@ APBO A</h3> <br>
 ## ERD
 ![image (4)](https://github.com/AgungSedayu01/4522210100_Agung-Sedayu_APBO_DAYCARE/assets/167985259/1f68a213-135a-44bd-a9cd-beee8c9ec5e7)
 
+## Class Diagram
+![cd2](https://github.com/AgungSedayu01/4522210100_Agung-Sedayu_APBO_DAYCARE/assets/167985259/0b906122-cca9-4f3c-ab96-56d2df1099b5)
