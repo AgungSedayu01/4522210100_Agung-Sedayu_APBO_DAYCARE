@@ -11,3 +11,7 @@ APBO A</h3> <br>
 
 ## Usecase
 ![APBO_Usecase](https://github.com/AgungSedayu01/4522210100_Agung-Sedayu_APBO_DAYCARE/assets/167985259/b279628c-71ae-49b2-8463-e3f2feb1113d)
+
+## ERD
+![image (4)](https://github.com/AgungSedayu01/4522210100_Agung-Sedayu_APBO_DAYCARE/assets/167985259/1f68a213-135a-44bd-a9cd-beee8c9ec5e7)
+
