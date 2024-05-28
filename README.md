@@ -10,4 +10,4 @@ APBO A</h3> <br>
 - Staff
 
 ## Usecase
-https://github.com/AgungSedayu01/4522210100_Agung-Sedayu_APBO_DAYCARE/issues/1#issue-2320946351
+![APBO_Usecase](https://github.com/AgungSedayu01/4522210100_Agung-Sedayu_APBO_DAYCARE/assets/167985259/b279628c-71ae-49b2-8463-e3f2feb1113d)
